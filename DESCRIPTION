@@ -1,0 +1,17 @@
+Package: PepTools2
+Type: Package
+Title: PepTools2 - An R-package for working with peptide data
+Version: 0.1.0
+Date: 2019-01-11
+Authors@R: person("Leon Eyrich", "Jessen", email = "leon.jessen@gmail.com",
+                  role = c("aut", "cre"))
+Maintainer: Leon Eyrich Jessen <leon.jessen@gmail.com>
+Description: The package is intended to be used for working with peptide data
+    Various tools for generating, manipulating, visualising and analysing
+    peptides and derived data
+License: GPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/leonjessen/PepTools2
+BugReports: https://github.com/leonjessen/PepTools2/issues
+RoxygenNote: 6.0.1
